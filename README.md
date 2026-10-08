@@ -11,7 +11,7 @@ The notebook and supporting code build rolling formation/trading windows, fit ma
 - `copula_pairs.ipynb` — main analysis notebook with data loading, cleaning, pair construction, GARCH filtering, copula fitting, and signal generation
 - `copulas.py` — copula classes and fitting utilities (Gaussian, Student-t, Clayton, Frank, Gumbel, and mixed copulas)
 - `data/` — cached parquet data downloaded from Yahoo Finance
-- `sources/` — source papers and reference materials
+- `sources/` — source papers and reference materials (not included in the repo)
 
 ## Strategy summary
 
